@@ -1,2 +1,2 @@
 # game
-hello
+hello how 
